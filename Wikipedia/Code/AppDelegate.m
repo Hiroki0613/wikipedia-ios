@@ -1,3 +1,6 @@
+
+//処理の流れから、おそらくここのdidFinishLaunchingWithOptionsからスタートすると思われる
+
 #import "AppDelegate.h"
 @import UserNotifications;
 @import WMF.NSUserActivity_WMFExtensions;
